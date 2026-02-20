@@ -16,7 +16,7 @@ height:55px;
 .hero{
 background:linear-gradient(rgba(10,77,156,0.85),
 rgba(10,77,156,0.85)),
-url('images/hero.jpg');
+url('hero.jpg');
 background-size:cover;
 background-position:center;
 height:100vh;
@@ -96,4 +96,5 @@ cursor:pointer;
 
 #scrollTopBtn:hover{
 background:#2DBE60;
+
 }
